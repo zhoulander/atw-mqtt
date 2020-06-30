@@ -1,0 +1,18 @@
+This product includes software from the waveplus-reader project
+* Copyright (c) 2019 Sten Otto Johnsen
+* Portions Copyright (c) 2018 Airthings AS
+* Licensed under the MIT License
+* https://github.com/stenjo/waveplus-reader
+
+This product includes software from the airthingswave-mqtt project
+* Copyright (c) 2018 Herb Peyerl <free-as-in@beer.org>
+* Portions Copyright (c) 2018 Airthings AS
+* Licensed under the MIT License
+* https://github.com/hpeyerl/airthingswave-mqtt
+
+This product includes software from Airthings
+* Copyright (c) 2020 Airthings AS
+* Licensed under the MIT License
+* https://github.com/Airthings/wave-reader
+* https://github.com/Airthings/waveplus-reader
+* https://github.com/Airthings/wavemini-reader

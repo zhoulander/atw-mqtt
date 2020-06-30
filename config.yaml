@@ -1,0 +1,15 @@
+mqtt:
+  broker: 192.168.1.123
+  port: 1883
+  username: "username"
+  password: "password"
+
+waves:
+  - name: "basement_radon"
+    sn: 1234567890
+    model: "Wave Plus"
+
+
+  - name: "upstairs_mini"
+    sn: 1234567891
+    model: "Wave Mini"
